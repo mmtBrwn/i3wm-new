@@ -12,5 +12,5 @@ https://i3wm.org/docs/refcard.html
 ## Перечень пакетов:
 	 i3 i3lock i3satatus xfce4-settings xfce4-notifyd udiskie thunar rofi xfce4-terminal picom gnome-screenshot feh
 	
-#### Тема - nordic-theme
-#### Иконки - kora-icon-theme
+#### Тема - nordic-theme (https://aur.archlinux.org/packages/nordic-theme)
+#### Иконки - kora-icon-theme (https://aur.archlinux.org/packages/kora-icon-theme)
